@@ -2,7 +2,7 @@
   "proofsEnabled": false,
   "deploy": {
     "optimism": "BaseContract",
-    "base": "OptContract"
+    "base": "OptContracts"
   },
   "isUniversal": false,
   "createChannel": {
