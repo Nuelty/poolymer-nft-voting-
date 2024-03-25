@@ -22,3 +22,4 @@ module.exports = {
     "XProofOfVoteNFTUC": [
         'https://picsum.photos/id/'
     ]
+};
